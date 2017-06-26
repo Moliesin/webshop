@@ -1,0 +1,85 @@
+#content{
+	padding-top: 88px;
+}
+#guide{
+	height: 400px;
+	width: 960px;
+	padding: 20px;
+	padding-left: 0;
+}
+#guide img{
+	height: 400px ;
+}
+#weizhi{
+	font-size: 24.5px;
+	font-weight: 400;
+	color: #7c7c7c;	
+}
+#register{
+	width: 554px;
+	float: left;
+
+}
+#register .name li{
+	border:1px solid #efefef;
+	height: 30px;
+	padding: 4px;
+	width: 259px;
+	float: left;
+	margin-right: 8px;
+	margin-bottom: 4px;
+}
+#regiseter .phone{
+	float: right;
+}
+.message{
+	border: 1px solid #efefef;
+	height: 130px;
+}
+#register .send{
+	border: 1px solid #efefef;
+	background: #e5412d;
+	color: #fff;
+	width: 143px;
+	font-size: 14px;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+	padding-left: 5px;
+}
+#john{
+	float: right;
+	width: 360px;
+	padding: 15px;
+	background: #424242;
+	color: #fff;
+	line-height: 20px;
+}
+#john h3{
+	font-size: 26px;
+	color: #efefef;
+	margin-bottom: 5px;
+}
+#john p{
+	cursor: help;
+}
+#john .line{
+	padding-bottom: 20px;
+}
+.important{
+	margin-top: 50px;
+	float: left;
+	margin-bottom: 20px;
+}
+.important .glyphicon{
+	font-size: 14px;
+	color: #7c7c7c;
+}
+.important .lorem{
+	background: #f4f4f4;
+	padding:15px;
+	margin-top: 15px;
+}
+.important .lorem p{
+	color: #7c7c7c;
+}

@@ -1,0 +1,208 @@
+#title{
+	padding-top: 88px;
+}
+#title h3{
+	display: block;
+	padding-top: 20px;
+	font-size: 24.5px;
+	color: #7c7c7c;
+	padding-bottom: 15px;
+	float: left;
+	font-weight: 400;
+	width: 630px;
+}
+#title h3 .glyphicon{
+	padding-right: 5px;
+}
+#title .select{
+	width: 315px;
+	float: right;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	
+
+}
+#title .select >p{
+	display:block;
+	height: 35px;
+	line-height: 35px;
+	
+	margin-right: 5px;
+	float: left;
+	clear:both;
+}
+#title .sel-box{
+	width: 220px;
+	float: right;
+}
+#title .sel-btn{
+	background: #e7e7e7;
+	padding: 2px 10px;
+	margin-top: 7px;
+}
+#title .sel-box .sel-menu{
+	float: right;
+	display: none; 	
+}
+#content{
+	overflow: hidden;
+}
+table{
+	width: 100%;
+	margin: 15px auto;
+}
+tbody{
+	color: #7c7c7c;
+}
+tr{
+	border-right: 1px solid #efefef;
+}
+#content tr:hover,tr.selected{
+	background: #7c7c7c;
+}
+tbody .sure{
+	background: #7c7c7c;
+}
+table th,table td{
+	padding: 8px;
+}
+table th{
+	background: #e5412d;
+	color: #fff;
+}
+td{
+	border-bottom: 1px solid #efefef;
+	border-left: 1px solid #efefef;
+	text-align: center;
+}
+td .info {
+text-align: left;
+}
+td .ipt{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	outline: none;
+}
+.product{
+	height: 126px;
+}
+.product img{
+	float: left;
+	width: 80px;
+	padding: 3px;
+	margin-right: 10px;
+	padding: 3px;
+	border: 1px solid #efefef;
+}
+.product .info{
+	overflow: hidden;
+}
+.product .info a{
+	color: #4d4d4d;
+	margin-bottom: 5px;
+}
+:hover tr{
+	color: #7c7c7c;
+}
+.info .size{
+	text-align: left;
+	float: left;
+	margin-right: 5px;
+	padding: 2px 4px;
+	
+}
+.info .label{
+	background: #999999;
+	border-radius: 3px;
+	color: #fff;
+	font-weight: bold;
+	padding: 2px 4px;
+}
+#final{
+	height: 150px;
+}
+.span6{
+	background: #f4f4f4;
+	padding: 15px;
+	text-align: center;
+	width: 450px;
+	margin-right: 15px;
+	float: left;
+}
+.span6 h3{
+	font-weight: bold;
+	margin-bottom: 15px;
+	color: #7c7c7c;
+}
+.span6 h4{
+	display: inline-block;
+	margin-top: 10px;
+	background: #424242;
+	color: #fff;
+	font-size: 14px;
+	width: 85px;	
+	height: 20px;
+	text-align: center;
+	padding: 4px 12px;
+}
+.first{
+	width: 229px;
+	height: 95px;
+	float: left;
+}
+.first table{
+	display: inline-block;
+	margin-bottom: 15px;
+	margin-top: 0;
+	border: none;
+	
+}
+.first tbody{
+	display: inline-block;
+	float: right;
+	width: 229px;
+	/*text-align: right;*/
+}
+.first tr{
+	font-size: 14px;
+	width: 229px;
+}
+.first td{
+	text-align: right;
+	font-weight: bold;
+}
+.second{
+	width: 229px;
+	height: 104px;
+	float: right;
+}
+.second h3{
+	background: #e5e5e5;
+	color: #222;
+	font-size: 15px;
+	height: 29px;
+	line-height: 29px;
+	text-align: center;
+	padding:0 10px;
+	margin-bottom: 15px;
+}
+.a{
+	background: #e5412d;
+	color: #fff;
+	font-size:17.5px;
+    padding: 10px;
+    
+	height: 40px;
+	font-weight: bold;
+
+}
+.a a{
+	color: #fff;
+}
+.a .glyphicon{
+	float: left;
+	padding-right:20px; 
+	padding-bottom: 10px;
+	top: 5px;
+

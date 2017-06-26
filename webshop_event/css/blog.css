@@ -1,0 +1,150 @@
+#content{
+	padding-top: 88px;
+}
+
+#blog{
+	font-size: 27px;
+	padding:20px 0;
+	color: #7c7c7c;
+	font-weight: bold;
+}
+#blog .glyphicon{
+	top: 3px;
+	left: 2px;
+	padding:2px;
+}
+.span3{
+	width: 23%;
+	float: left;
+	
+}
+.span3 .menu{
+	margin-bottom: 15px;
+	background: #f4f4f4;
+	border:1px solid #efefef;
+
+}
+.span3 li{
+	padding:0 10px;
+	height: 39px;
+	line-height: 39px;
+	border:1px solid #efefef;
+}
+.span3 li a{
+	font-weight: bold;
+	color: #000;
+}
+.span3 li .badge{
+	float: right;
+	background: #999;
+	color: #fff;
+	padding-left: 9px;
+	padding-right: 9px;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 14px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+.span3 .line{
+	height: 2px;
+	margin:23px 0;
+	background: #f4f4f4;
+	text-align: center;
+}
+.span3 .line .glyphicon{
+	color: #7c7c7c;
+	font-size: 3em;
+	top: -17px;
+}
+#note{
+	height: 25px;
+	line-height: 25px;
+	color: #7c7c7c;
+	font-size: 17px;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+.span3 .lorem{
+	background: #bbb;
+	border: 1px solid #efefef;
+	padding:15px;
+	font-size: 11px;
+	color: #fff;
+}
+.span3 .tip{
+	background: #f4f4f4;
+	padding: 13px;
+	border: 1px solid #efefef;
+	padding-right: 0;
+}
+.span3 .tip .label{
+	background: #999;
+	font-size: 11px;
+	font-weight:bold;
+	color: #f4f4f4;
+	text-align: center;
+	padding: 2px 4px;
+	border: 1px solid #efefef;
+	border-radius: 5px;
+}
+.span3 .tip .label1{
+	text-align: center;
+	margin-bottom: 4px;
+}
+.span3 .tip .label2{
+	text-align: center;
+	margin-bottom: 4px;
+
+}
+.span3 .tip .label3{
+	text-align: center;
+}
+.span9{
+	
+	margin-left: 1%;
+}
+.span9 .introduce{
+	border:1px solid #efefef;
+	margin: 0 auto 15px;
+	background: #fff;
+	padding: 15px;
+	
+	float: right;
+	width: 74%;
+}
+.span9 .introduce .span4 img{
+	padding: 3px;
+	border: 1px solid #efefef;
+	/*width: 32%;*/
+	display: block;
+	height: 142px;
+	float: left;
+}
+.span9 .introduce .span8{
+	width: 453px;
+	float: right;
+	color: #7c7c7c;
+}
+.span9 .introduce .span8 h3{
+	font-weight: bold;
+	margin:0 0 5px;
+	color: #4d4d4d;
+}
+.span9 .introduce .span8 .glyphicon{
+	font-size: 13px;
+	padding-right: 5px;
+}
+.span9 .introduce .span8 .pad{
+	padding-bottom: 10px;
+}
+.span9 .introduce .span8 a{
+	color: #e5412d;
+}
+.span9 .introduce .span8 p{
+	font-size: 11px;
+	padding-bottom: 10px;
+	font-size: 13.5px;
+}
+
+
